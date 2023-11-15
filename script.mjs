@@ -1,7 +1,7 @@
 import cloneDeep from '../objects.js';
 
 const data = {
-  key: 'value',
+  key: 'value1',
   key2: {
     key: 'innerValue',
     innerKey: {
